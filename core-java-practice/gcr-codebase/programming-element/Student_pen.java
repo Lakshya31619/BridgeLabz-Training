@@ -4,6 +4,6 @@ public class Student_pen {
         int s = 3;
         int d = pen/s;
         int nd = pen%s;
-        System.out.println("The Pen Per Student is "+d+" and the remaining pen not distributed is "+nd); 
+        System.out.println("The Pen Per Student is "+d+" and the remaining pen not distributed is "+nd);
     }
 }
