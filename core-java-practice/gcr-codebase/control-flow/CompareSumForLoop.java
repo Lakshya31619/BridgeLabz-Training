@@ -1,0 +1,22 @@
+import java.util.Scanner;
+public class CompareSumForLoop {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        if(n>0){
+            int sum1 = 0; //For while loop
+            for(int i=n; i>=0; i--){
+                sum1 += i;
+            }
+            int sum2 = 0; //For formula
+            sum2 = n*(n+1)/2;
+            if(sum1==sum2){
+                System.out.println("Equal");
+            }else{
+                System.out.println("Not Equal");
+            }
+        }else{
+            System.out.println("Not a natural number");
+        }
+    }
+}
