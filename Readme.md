@@ -11,21 +11,21 @@ This week focused on building a strong foundation in **Java Core Programming**, 
 
 1. 17-12-2025 (Wednesday)
 - Prerequisite installation guide for Git, and EclipseIDE.
-- Solved 5 daily leetcode questions here (core-java-practice/leet-code-codebase/)
+- Solved 5 daily leetcode questions here ([core-java-practice/leet-code-codebase/](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase))
 - Solved 10 practice problems here (core-java-practice/gcr-codebase/programming-elements)
 
 2. 18-12-2025 (Thursday)
-- Solved Programming Elements Level-1 programs here (core-java-practice/gcr-codebase/programming-elements)
-- Solved Programming Elements Level-2 programs here (core-java-practice/gcr-codebase/programming-elements)
+- Solved Programming Elements Level-1 programs here ([core-java-practice/gcr-codebase/programming-elements](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements))
+- Solved Programming Elements Level-2 programs here ([core-java-practice/gcr-codebase/programming-elements](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements))
 
 ---
 
 🔹 Java Control Flows
 
 3. 19-12-2025 (Friday)
-- Solved Control Flow Level-1 programs here (core-java-practice/gcr-codebase/control-flow)
-- Solved Control Flow Level-2 programs here (core-java-practice/gcr-codebase/control-flow)
-- Solved Control Flow Level-3 programs here (core-java-practice/gcr-codebase/control-flow)
+- Solved Control Flow Level-1 programs here ([core-java-practice/gcr-codebase/control-flow](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow))
+- Solved Control Flow Level-2 programs here ([core-java-practice/gcr-codebase/control-flow](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow))
+- Solved Control Flow Level-3 programs here ([core-java-practice/gcr-codebase/control-flow](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow))
 
 ---
 
