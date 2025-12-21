@@ -11,6 +11,7 @@ BridgeLabz-Training/
     │   └── arrays/
     ├── leet-code-codebase/
     └── scenario-based/
+```
 
 ## 🗓️ Week 01 – Core Programming (Java Fundamentals)
 
