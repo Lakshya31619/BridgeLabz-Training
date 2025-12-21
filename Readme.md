@@ -2,6 +2,7 @@
 
 ## Folder Structure
 
+```text
 BridgeLabz-Training/
 └── core-java-practice/
     ├── gcr-codebase/
