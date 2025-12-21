@@ -1,7 +1,6 @@
 # 📘 Daily Progress Log – BridgeLabz Training
 
 ## 🗓️ Week 01 – Core Programming (Java Fundamentals)
----
 
 ### 📌 Topics Covered
 
