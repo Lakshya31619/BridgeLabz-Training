@@ -33,12 +33,6 @@
 - Solved Arrays Level-1 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
 - Solved Arrays Level-2 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
 
-## 🧠 Key Learnings
-
-
 ---
-
-## ✅ Summary
-
 
 ✨ *Maintained as part of the BridgeLabz Training Repository for consistent progress tracking.*
