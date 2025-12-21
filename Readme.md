@@ -1,5 +1,16 @@
 # 📘 Daily Progress Log – BridgeLabz Training
 
+## Folder Structure
+
+BridgeLabz-Training/
+└── core-java-practice/
+    ├── gcr-codebase/
+    │   ├── programming-elements/
+    │   ├── control-flow/
+    │   └── arrays/
+    ├── leet-code-codebase/
+    └── scenario-based/
+
 ## 🗓️ Week 01 – Core Programming (Java Fundamentals)
 
 ### 📌 Topics Covered
