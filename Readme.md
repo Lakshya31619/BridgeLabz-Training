@@ -39,12 +39,26 @@ BridgeLabz-Training/
 
 ---
 
-🔹Arrays
+🔹 Arrays
 
 4. 20-12-2025 (Saturday)
 - Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 - Solved Arrays Level-1 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
 - Solved Arrays Level-2 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
+
+---
+
+## 🗓️ Week 02 – Core Programming (Java Fundamentals)
+
+🔹 Strings
+
+1. 22-12-2025 (Monday)
+- Solved Strings Level-1 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+- Solved Strings Level-2 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+
+2. 23-12-2025 (Tuesday)
+- Solved Strings Level-3 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+- Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
 ---
 
