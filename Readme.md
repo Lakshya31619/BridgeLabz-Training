@@ -62,4 +62,15 @@ BridgeLabz-Training/
 
 ---
 
+🔹 Methods
+
+3. 24-12-2025 (Wednesday)
+- Solved Methods Level-1 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+- Solved Methods Level-2 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+4. 25-12-2025 (Thursday)
+- Solved Methods Level-3 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+---
+
 ✨ *Maintained as part of the BridgeLabz Training Repository for consistent progress tracking.*
