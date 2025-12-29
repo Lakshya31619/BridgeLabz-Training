@@ -67,9 +67,18 @@ BridgeLabz-Training/
 3. 24-12-2025 (Wednesday)
 - Solved Methods Level-1 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
 - Solved Methods Level-2 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
-
-4. 25-12-2025 (Thursday)
 - Solved Methods Level-3 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+4. 26-12-2025 (Friday)
+- Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+- Solved Extras-Java String Practice Problems [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
+- Solved Extras-Built-in Function & Java Date-Time Problems [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
+
+---
+
+## 🗓️ Week 03 – Object-Oriented Programming System(OOPS)
+
+1. 29-12-2025 (Monday)
 
 ---
 
