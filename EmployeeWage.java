@@ -1,8 +1,11 @@
 public class EmployeeWage {
     public static void main(String[] args) {
         System.out.println("Welcome to Employee Wage Computation Program");
+        int hour = 8;
+        int wagePerHour = 20;
         EmployeePresentCheck();
-        EmployeeDailyWage();
+        EmployeeDailyWage(hour, wagePerHour);
+        EmployeePartTime(hour, wagePerHour);
     }
     //Use Case 1
     public static void EmployeePresentCheck(){
@@ -14,9 +17,11 @@ public class EmployeeWage {
         }
     }
     //Use Case 2
-    public static void EmployeeDailyWage(){
-        int hour = 8;
-        int wagePerHour = 20;
+    public static void EmployeeDailyWage(int hour, int wagePerHour){
         System.out.println("Wage per day : "+hour*wagePerHour);
+    }
+    //Use Case 3
+    public static void EmployeePartTime(int hour, int wagePerHour){
+        System.out.println("Part time wage : "+hour*wagePerHour);
     }
 }
