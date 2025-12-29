@@ -13,6 +13,7 @@ public class EmployeeWage {
         EmployeePartTime(hour, wagePerHour);
         System.out.println(EmployeeSwitchCase(pick, hour, wagePerHour));
         EmployeeMonthlyWage(hour, wagePerHour);
+        EmployeeWageLimit(hour, wagePerHour);
     }
     //Use Case 1
     public static int EmployeePresentCheck(){
@@ -39,5 +40,22 @@ public class EmployeeWage {
     //Use Case 5
     public static void EmployeeMonthlyWage(int hours, int wagePerHour){
         System.out.println("Monthly wage : "+hours*wagePerHour*20);
+    }
+    //Use Case 6
+    public static void EmployeeWageLimit(int hours, int wagePerHour){
+        int hourLimit = 100;
+        int daysLimit = 20;
+        int totalHours = 0;
+        int totalDays = 0;
+        int totalWage = 0;
+        while(totalDays<daysLimit && totalHours<hourLimit){
+            totalDays++;
+            totalHours += hours;
+            totalWage += hours*wagePerHour;
+            if(totalHours+hours>=hourLimit){
+                totalWage -= hours*wagePerHour;
+            }
+        }
+        System.out.println("Total Wage : "+totalWage);
     }
 }
