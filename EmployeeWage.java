@@ -12,6 +12,7 @@ public class EmployeeWage {
         EmployeeDailyWage(hour, wagePerHour);
         EmployeePartTime(hour, wagePerHour);
         System.out.println(EmployeeSwitchCase(pick, hour, wagePerHour));
+        EmployeeMonthlyWage(hour, wagePerHour);
     }
     //Use Case 1
     public static int EmployeePresentCheck(){
@@ -34,5 +35,9 @@ public class EmployeeWage {
             case(1) : partTimeWage += 0;
         }
         return partTimeWage;
+    }
+    //Use Case 5
+    public static void EmployeeMonthlyWage(int hours, int wagePerHour){
+        System.out.println("Monthly wage : "+hours*wagePerHour*20);
     }
 }
