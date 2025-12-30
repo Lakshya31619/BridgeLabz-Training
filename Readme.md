@@ -79,6 +79,19 @@ BridgeLabz-Training/
 ## 🗓️ Week 03 – Object-Oriented Programming System(OOPS)
 
 1. 29-12-2025 (Monday)
+- Solved Extras-Java String Handling Problems [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
+- Solved 4 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+- Solved Employee Wage Computation Problem [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+---
+
+🔹 Class and Object
+
+2. 30-12-2025 (Tuesday)
+- Solved Line Comparision Problem [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+- Solved Snakes and Ladders Problem [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+- Solved Class and Object Level-1 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/class-and-objects)
+- Solved Class and Object Level-2 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/class-and-objects)
 
 ---
 
