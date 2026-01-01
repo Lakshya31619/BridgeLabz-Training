@@ -38,7 +38,10 @@ public class ProductFinal {
         ProductFinal.updateDiscount(10.0);
         // Create a product
         ProductFinal product1 = new ProductFinal("P001", "Laptop", 1200.0, 5);
+        ProductFinal product2 = new ProductFinal("P002", "Smartphone", 800, 10);
         // Display product details
         product1.displayProductDetails();
+        System.out.println();
+        product2.displayProductDetails();
     }
 }
