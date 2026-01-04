@@ -11,6 +11,14 @@ BridgeLabz-Training/
     │   └── arrays/
     ├── leet-code-codebase/
     └── scenario-based/
+└── oops-practice/
+    ├── gcr-codebase/
+    │   ├── class-and-objects/
+    │   ├── class-object-sequence-diagrams/
+    │   ├── constructors-instancevsclass-accessmodifiers/
+    │   ├── inheritance/
+    │   └── this-static-final-instanceof
+    └── scenario-based/
 ```
 
 ## 🗓️ Week 01 – Core Programming (Java Fundamentals)
@@ -90,8 +98,39 @@ BridgeLabz-Training/
 2. 30-12-2025 (Tuesday)
 - Solved Line Comparision Problem [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 - Solved Snakes and Ladders Problem [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
-- Solved Class and Object Level-1 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/class-and-objects)
-- Solved Class and Object Level-2 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/class-and-objects)
+- Solved Class and Object Level-1 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-objects)
+- Solved Class and Object Level-2 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-objects)
+
+---
+
+🔹 Constructors, Instance vs. Class Variables, Access Modifiers
+
+3. 31-12-2025 (Wednesday)
+- Solved Constructors, Instance vs. Class Variables, Access Modifiers Level-1 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-instancevsclass-accessmodifiers)
+
+---
+
+🔹 this, static, final key words and instanceof
+
+4. 01-01-2026 (Thursday)
+- Solved this, static, final key words and instanceof Level-1 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-final-instanceof)
+- Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+---
+
+🔹 Class, Object & Sequence Diagram
+
+5. 02-01-2026 (Friday)
+- Solved 2 Class, Object & Sequence Diagram sheets [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object-sequence-diagrams)
+- Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+---
+
+🔹 Inheritance
+
+6. 03-01-2026 (Saturday)
+- Solved Inheritance problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
+- Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
 ---
 
