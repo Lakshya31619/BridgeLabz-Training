@@ -5,20 +5,25 @@
 ```text
 BridgeLabz-Training/
 └── core-java-practice/
-    ├── gcr-codebase/
-    │   ├── programming-elements/
-    │   ├── control-flow/
-    │   └── arrays/
-    ├── leet-code-codebase/
-    └── scenario-based/
+|   ├── gcr-codebase/
+|   │   ├── programming-elements/
+|   │   ├── control-flow/
+|   │   └── arrays/
+|   ├── leet-code-codebase/
+|   └── scenario-based/
+└── dsa-practice/
+|   ├── gcr-codebase/
+|   |   ├── linked-list/
+|   ├── leet-code-codebase/
+|   └── scenario-based/
 └── oops-practice/
-    ├── gcr-codebase/
-    │   ├── class-and-objects/
-    │   ├── class-object-sequence-diagrams/
-    │   ├── constructors-instancevsclass-accessmodifiers/
-    │   ├── inheritance/
-    │   └── this-static-final-instanceof
-    └── scenario-based/
+|   ├── gcr-codebase/
+|   │   ├── class-and-objects/
+|   │   ├── class-object-sequence-diagrams/
+|   │   ├── constructors-instancevsclass-accessmodifiers/
+|   │   ├── inheritance/
+|   │   └── this-static-final-instanceof
+|   └── scenario-based/
 ```
 
 ## 🗓️ Week 01 – Core Programming (Java Fundamentals)
@@ -130,6 +135,23 @@ BridgeLabz-Training/
 
 6. 03-01-2026 (Saturday)
 - Solved Inheritance problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
+- Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+---
+
+## 🗓️ Week 04 – Object-Oriented Programming System(OOPS)
+
+🔹 Encapsulation, Polymorphism, Interface and Abstract Class
+
+1. 05-01-2026 (Monday)
+- Solved Encapsulation, Polymorphism, Interface and Abstract Class problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-interface-abstractclass)
+- Solved 4 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+2. 06-01-2026 (Tuesday)
+- Solved 4 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+- Solved 2 leetcode questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+
+3. 07-01-2026 (Wednesday)
 - Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
 ---
