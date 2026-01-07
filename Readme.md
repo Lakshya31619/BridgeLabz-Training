@@ -21,6 +21,7 @@ BridgeLabz-Training/
 |   │   ├── class-and-objects/
 |   │   ├── class-object-sequence-diagrams/
 |   │   ├── constructors-instancevsclass-accessmodifiers/
+|   |   ├── encapsulation-polymorphism-interface-abstractclass/
 |   │   ├── inheritance/
 |   │   └── this-static-final-instanceof
 |   └── scenario-based/
@@ -41,16 +42,12 @@ BridgeLabz-Training/
 - Solved Programming Elements Level-1 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 - Solved Programming Elements Level-2 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
----
-
 🔹 Java Control Flows
 
 3. 19-12-2025 (Friday)
 - Solved Control Flow Level-1 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 - Solved Control Flow Level-2 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 - Solved Control Flow Level-3 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
-
----
 
 🔹 Arrays
 
@@ -73,8 +70,6 @@ BridgeLabz-Training/
 - Solved Strings Level-3 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 - Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
----
-
 🔹 Methods
 
 3. 24-12-2025 (Wednesday)
@@ -96,8 +91,6 @@ BridgeLabz-Training/
 - Solved 4 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 - Solved Employee Wage Computation Problem [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
----
-
 🔹 Class and Object
 
 2. 30-12-2025 (Tuesday)
@@ -106,14 +99,10 @@ BridgeLabz-Training/
 - Solved Class and Object Level-1 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-objects)
 - Solved Class and Object Level-2 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-objects)
 
----
-
 🔹 Constructors, Instance vs. Class Variables, Access Modifiers
 
 3. 31-12-2025 (Wednesday)
 - Solved Constructors, Instance vs. Class Variables, Access Modifiers Level-1 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-instancevsclass-accessmodifiers)
-
----
 
 🔹 this, static, final key words and instanceof
 
@@ -121,15 +110,11 @@ BridgeLabz-Training/
 - Solved this, static, final key words and instanceof Level-1 programs [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-final-instanceof)
 - Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
----
-
 🔹 Class, Object & Sequence Diagram
 
 5. 02-01-2026 (Friday)
 - Solved 2 Class, Object & Sequence Diagram sheets [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object-sequence-diagrams)
 - Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
-
----
 
 🔹 Inheritance
 
