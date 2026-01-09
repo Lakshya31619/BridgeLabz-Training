@@ -124,7 +124,7 @@ BridgeLabz-Training/
 
 ---
 
-## 🗓️ Week 04 – Object-Oriented Programming System(OOPS)
+## 🗓️ Week 04 – Object-Oriented Programming System(OOPS)/Data Structure & Algorithms(DSA)
 
 🔹 Encapsulation, Polymorphism, Interface and Abstract Class
 
@@ -138,6 +138,14 @@ BridgeLabz-Training/
 
 3. 07-01-2026 (Wednesday)
 - Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+🔹 Linked List
+
+4. 08-01-2026 (Thursday)
+- Solved LinkedList problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)
+
+5. 09-01-2026 (Friday)
+- Solved 3 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
 ---
 
