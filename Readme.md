@@ -146,6 +146,7 @@ BridgeLabz-Training/
 
 5. 09-01-2026 (Friday)
 - Solved 3 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+- Solved 2 Leetcode Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
 
 ---
 
