@@ -7,8 +7,8 @@ class Queue{
         in = new Stack<>();
         out = new Stack<>();
     }
-    public void enqueue(int x){
-        in.push(x);
+    public void enqueue(int val){
+        in.push(val);
     }
     public int dequeue(){
         if(isEmpty()){
