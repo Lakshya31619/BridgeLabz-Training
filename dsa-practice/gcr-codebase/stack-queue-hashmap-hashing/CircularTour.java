@@ -1,22 +1,25 @@
+import java.util.Queue;
+import java.util.LinkedList;
 import java.util.Scanner;
 public class CircularTour {
     public static int findStartingPoint(int[] petrol, int[] distance, int n) {
-        int start = 0;
-        int balance = 0;
-        int deficit = 0;
-        for (int i = 0; i < n; i++) {
-            balance += petrol[i] - distance[i];
-            if (balance < 0) {
-                deficit += balance;
-                start = i + 1;
-                balance = 0;
+        Queue<Integer> q = new LinkedList<>();
+        int currPetrol = 0;
+        int i = 0;
+        while (i < 2 * n) {
+            int idx = i % n;
+            q.offer(idx);
+            currPetrol += petrol[idx] - distance[idx];
+            while (!q.isEmpty() && currPetrol < 0) {
+                int removed = q.poll();
+                currPetrol -= petrol[removed] - distance[removed];
             }
+            if (q.size() == n) {
+                return q.peek();
+            }
+            i++;
         }
-        if (balance + deficit >= 0) {
-            return start;
-        } else {
-            return -1;
-        }
+        return -1;
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
