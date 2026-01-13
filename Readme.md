@@ -150,4 +150,11 @@ BridgeLabz-Training/
 
 ---
 
+## 🗓️ Week 05 – Data Structure & Algorithms(DSA)
+
+1. 11-01-2026 (Monday)
+- Solved 10 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+---
+
 ✨ *Maintained as part of the BridgeLabz Training Repository for consistent progress tracking.*
