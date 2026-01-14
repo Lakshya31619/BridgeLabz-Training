@@ -14,6 +14,8 @@ BridgeLabz-Training/
 └── dsa-practice/
 |   ├── gcr-codebase/
 |   |   ├── linked-list/
+|   |   ├── sorting/
+|   |   └── stack-queue-hashmap-hashing/
 |   ├── leet-code-codebase/
 |   └── scenario-based/
 └── oops-practice/
@@ -137,7 +139,9 @@ BridgeLabz-Training/
 - Solved 2 leetcode questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
 3. 07-01-2026 (Wednesday)
-- Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+- Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) : 
+a. Cab Booking / Ride Management System
+b. Online Banking System
 
 🔹 Linked List
 
@@ -145,15 +149,31 @@ BridgeLabz-Training/
 - Solved LinkedList problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)
 
 5. 09-01-2026 (Friday)
-- Solved 3 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+- Solved 3 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) : 
+a. Hospital Patient Management System
+b. Vehicle Rental Application
+c. Flight Booking System
 - Solved 2 Leetcode Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
 
 ---
 
 ## 🗓️ Week 05 – Data Structure & Algorithms(DSA)
 
-1. 11-01-2026 (Monday)
-- Solved 10 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+1. 12-01-2026 (Monday)
+- Solved 10 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) : 
+a. E-Commerce Order Management System
+b. Digital Wallet System
+c. EventManager Ticket Price Optimizer
+d. Hotel Reservation System
+e. Inventory Management System
+f. Online Examination System
+g. Online Voting System
+h. SmartShelf Real-Time Book Arrangement
+i. TrafficManager – Roundabout Vehicle Flow
+j. Student Course Registration System
+
+2. 13-01-2026 (Tuesday)
+- Solved Stack, Queue, HashMap & Hashing problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue-hashmap-hashing)
 
 ---
 
