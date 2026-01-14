@@ -140,8 +140,10 @@ BridgeLabz-Training/
 
 3. 07-01-2026 (Wednesday)
 - Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) : 
+```text
 a. Cab Booking / Ride Management System
 b. Online Banking System
+```
 
 🔹 Linked List
 
@@ -150,9 +152,11 @@ b. Online Banking System
 
 5. 09-01-2026 (Friday)
 - Solved 3 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) : 
+```text
 a. Hospital Patient Management System
 b. Vehicle Rental Application
 c. Flight Booking System
+```
 - Solved 2 Leetcode Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
 
 ---
@@ -161,6 +165,7 @@ c. Flight Booking System
 
 1. 12-01-2026 (Monday)
 - Solved 10 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based) : 
+```text
 a. E-Commerce Order Management System
 b. Digital Wallet System
 c. EventManager Ticket Price Optimizer
@@ -171,6 +176,7 @@ g. Online Voting System
 h. SmartShelf Real-Time Book Arrangement
 i. TrafficManager – Roundabout Vehicle Flow
 j. Student Course Registration System
+```
 
 2. 13-01-2026 (Tuesday)
 - Solved Stack, Queue, HashMap & Hashing problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue-hashmap-hashing)
