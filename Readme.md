@@ -177,9 +177,13 @@ h. SmartShelf Real-Time Book Arrangement
 i. TrafficManager – Roundabout Vehicle Flow
 j. Student Course Registration System
 ```
-
+🔹 Stack, Queue, HashMap & Hashing
 2. 13-01-2026 (Tuesday)
 - Solved Stack, Queue, HashMap & Hashing problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue-hashmap-hashing)
+
+🔹 Sorting Algorithms
+3. 14-01-2026(Wednesday)
+- Solved Sorting algorithms problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting)
 
 ---
 
