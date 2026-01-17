@@ -13,6 +13,7 @@ BridgeLabz-Training/
 |   └── scenario-based/
 └── dsa-practice/
 |   ├── gcr-codebase/
+|   |   ├── linear-binary-search/
 |   |   ├── linked-list/
 |   |   ├── sorting/
 |   |   └── stack-queue-hashmap-hashing/
@@ -186,6 +187,16 @@ j. Student Course Registration System
 
 3. 14-01-2026(Wednesday)
 - Solved Sorting algorithms problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting)
+
+🔹 StringBuilder, StringBuffer, FileReader, InputStream Reader
+
+4. 15-01-2026(Thursday)
+- Solved Sorting algorithms problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linear-binary-search)
+
+🔹 Linear Search, Binary Search
+
+5. 16-01-2026(Friday)
+- Solved Sorting algorithms problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linear-binary-search)
 
 ---
 
