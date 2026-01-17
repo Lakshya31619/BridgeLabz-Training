@@ -1,0 +1,3 @@
+Hello java
+My name is java
+Java is my favorite language
