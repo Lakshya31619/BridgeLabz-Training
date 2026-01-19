@@ -35,12 +35,21 @@ public class ContactInfo {
     }
     @Override
     public String toString() {
-        return getFullName() + " | " + phoneNumber + " | " + email;
+        return "Name: " + firstName + " " + lastName + ", Address: " + address + ", City: " + city + ", State: " + state + ", Zip: " + zip + ", Phone: " + phoneNumber + ", Email: " + email;
     }
     public String getCity() {
         return city;
     }
     public String getState() {
         return state;
+    }
+    public String getFirstName(){
+        return firstName;
+    }
+    public String getLastName(){ 
+        return lastName; 
+    }
+    public int getZip(){
+        return zip; 
     }
 }

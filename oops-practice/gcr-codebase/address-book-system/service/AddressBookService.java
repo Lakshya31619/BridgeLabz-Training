@@ -60,4 +60,36 @@ public class AddressBookService {
     public int countPersonsByState(String state) {
         return statePersonMap.getOrDefault(state.toLowerCase(), new ArrayList<>()).size();
     }
+    // Use Case - 11 : Sort by name
+    public List<ContactInfo> sortByName(String bookName) {
+        List<ContactInfo> contacts = addressBookMap.get(bookName);
+        if (contacts == null) {
+            return Collections.emptyList();
+        }
+        contacts.sort(
+            Comparator.comparing(
+                c -> (c.getFirstName() + " " + c.getLastName()).toLowerCase()
+            )
+        );
+        return contacts;
+    }
+    //Use Case - 12 : Sort by City/State/Zip
+    public List<ContactInfo> sortByCity(String bookName) {
+    List<ContactInfo> contacts = addressBookMap.get(bookName);
+    if (contacts == null) return Collections.emptyList();
+    contacts.sort(Comparator.comparing(c -> c.getCity().toLowerCase()));
+    return contacts;
+    }
+    public List<ContactInfo> sortByState(String bookName) {
+        List<ContactInfo> contacts = addressBookMap.get(bookName);
+        if (contacts == null) return Collections.emptyList();
+        contacts.sort(Comparator.comparing(c -> c.getState().toLowerCase()));
+        return contacts;
+    }
+    public List<ContactInfo> sortByZip(String bookName) {
+        List<ContactInfo> contacts = addressBookMap.get(bookName);
+        if (contacts == null) return Collections.emptyList();
+        contacts.sort(Comparator.comparingInt(ContactInfo::getZip));
+        return contacts;
+    }
 }

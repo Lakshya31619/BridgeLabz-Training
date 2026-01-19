@@ -72,7 +72,11 @@ public class AddressBookMain {
             System.out.println("6. Search Person by State");
             System.out.println("7. Count Person by City");
             System.out.println("8. Count Person by State");
-            System.out.println("9. Back");
+            System.out.println("9. Sort Contact by Name");
+            System.out.println("10. Sort Contact by City");
+            System.out.println("11. Sort Contact by State");
+            System.out.println("12. Sort Contact by Zip");
+            System.out.println("13. Back");
             System.out.print("Choose option: ");
             int option = sc.nextInt();
             sc.nextLine();
@@ -124,13 +128,26 @@ public class AddressBookMain {
                     String countCity = sc.nextLine();
                     System.out.println("Count: " + systemService.countPersonsByCity(countCity));
                     break;
-
                 case 8:
                     System.out.print("Enter State: ");
                     String countState = sc.nextLine();
                     System.out.println("Count: " + systemService.countPersonsByState(countState));
                     break;
+                // Use Case 11 : Sort by Name
                 case 9:
+                    systemService.sortByName(bookName).forEach(System.out::println);
+                    break;
+                // Use Case 12 : Sort by City/State/Zip 
+                case 10:
+                    systemService.sortByCity(bookName).forEach(System.out::println);
+                    break;
+                case 11:
+                    systemService.sortByState(bookName).forEach(System.out::println);
+                    break;
+                case 12:
+                    systemService.sortByZip(bookName).forEach(System.out::println);
+                    break;
+                case 13:
                     System.out.println("Exiting program...");
                     return;
                 default:
