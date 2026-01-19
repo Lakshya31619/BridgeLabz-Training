@@ -200,7 +200,7 @@ j. Student Course Registration System
 
 6. 17-01-2026(Saturday)
 - Solved Address Book System Use Cases 1-7 [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/address-book-system)
-- - Solved 2 Leetcode Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase) 
+- Solved 2 Leetcode Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase) 
 
 ---
 
