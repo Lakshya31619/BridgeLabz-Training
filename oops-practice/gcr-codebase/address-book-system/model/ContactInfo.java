@@ -1,6 +1,6 @@
 import java.util.Objects;
 public class ContactInfo {
-    // Use Case 1
+    // Use Case 1 : Create contacts
     private String firstName;
     private String lastName;
     private String address;
@@ -36,5 +36,11 @@ public class ContactInfo {
     @Override
     public String toString() {
         return getFullName() + " | " + phoneNumber + " | " + email;
+    }
+    public String getCity() {
+        return city;
+    }
+    public String getState() {
+        return state;
     }
 }
