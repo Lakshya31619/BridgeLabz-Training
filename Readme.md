@@ -185,22 +185,29 @@ j. Student Course Registration System
 
 🔹 Sorting Algorithms
 
-3. 14-01-2026(Wednesday)
+3. 14-01-2026 (Wednesday)
 - Solved Sorting algorithms problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting)
 
 🔹 StringBuilder, StringBuffer, FileReader, InputStream Reader
 
-4. 15-01-2026(Thursday)
+4. 15-01-2026 (Thursday)
 - Solved Sorting algorithms problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linear-binary-search)
 
 🔹 Linear Search, Binary Search
 
-5. 16-01-2026(Friday)
+5. 16-01-2026 (Friday)
 - Solved Sorting algorithms problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linear-binary-search)
 
-6. 17-01-2026(Saturday)
+6. 17-01-2026 (Saturday)
 - Solved Address Book System Use Cases 1-7 [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/address-book-system)
 - Solved 2 Leetcode Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase) 
+
+---
+
+## 🗓️ Week 06 – Data Structure & Algorithms(DSA)
+
+1. 19-01-2026 (Monday)
+- Solved Address Book System Use Cases 8-12 [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/address-book-system)
 
 ---
 
