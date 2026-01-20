@@ -15,12 +15,14 @@ BridgeLabz-Training/
 |   ├── gcr-codebase/
 |   |   ├── linear-binary-search/
 |   |   ├── linked-list/
+|   |   ├── runtime-analysis-big-o-notation/
 |   |   ├── sorting/
 |   |   └── stack-queue-hashmap-hashing/
 |   ├── leet-code-codebase/
 |   └── scenario-based/
 └── oops-practice/
 |   ├── gcr-codebase/
+|   |   ├── address-book-system/
 |   │   ├── class-and-objects/
 |   │   ├── class-object-sequence-diagrams/
 |   │   ├── constructors-instancevsclass-accessmodifiers/
@@ -208,6 +210,10 @@ j. Student Course Registration System
 
 1. 19-01-2026 (Monday)
 - Solved Address Book System Use Cases 8-12 [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/address-book-system)
+
+2. 20-01-2026 (Tuesday)
+- Solved Runtime Anaysis & Big-O Notation problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/runtime-analysis-big-o-notation)
+- Solved 2 Leetcode Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
 
 ---
 
