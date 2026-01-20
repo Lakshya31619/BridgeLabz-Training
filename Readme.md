@@ -214,6 +214,15 @@ j. Student Course Registration System
 2. 20-01-2026 (Tuesday)
 - Solved Runtime Anaysis & Big-O Notation problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/runtime-analysis-big-o-notation)
 - Solved 2 Leetcode Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+- - Solved 6 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based) : 
+```text
+a. TrafficManager – Roundabout Vehicle Flow Story
+b. BookShelf – Library Organize Story
+c. BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
+d. ParcelTracker – Delivery Chain Management (Singly Linked List)
+e. ExamProctor – Online Exam Review System (Stack + HashMap + Functions)
+f. CinemaTime – Movie Schedule Manager
+```
 
 ---
 
