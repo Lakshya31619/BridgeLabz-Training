@@ -224,6 +224,15 @@ e. ExamProctor – Online Exam Review System (Stack + HashMap + Functions)
 f. CinemaTime – Movie Schedule Manager
 ```
 
+3. 21-01-2026 (Wednesday)
+
+- Solved Generics problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
+- Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based) : 
+```text
+a. EduResults – Rank Sheet Generator (Merge Sort)
+b. SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+```
+
 ---
 
 ✨ *Maintained as part of the BridgeLabz Training Repository for consistent progress tracking.*
