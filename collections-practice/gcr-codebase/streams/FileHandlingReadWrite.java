@@ -4,8 +4,8 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 public class FileHandlingReadWrite {
     public static void main(String[] args) {
-        String sourceFile = "./collections-practice/gcr-codebase/streams/source.txt";
-        String destinationFile = "./collections-practice/gcr-codebase/streams/destination.txt";
+        String sourceFile = "./collections-practice/gcr-codebase/streams/files/source.txt";
+        String destinationFile = "./collections-practice/gcr-codebase/streams/files/destination.txt";
         FileInputStream fis = null;
         FileOutputStream fos = null;
         try {
