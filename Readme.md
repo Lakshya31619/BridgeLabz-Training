@@ -4,11 +4,21 @@
 
 ```text
 BridgeLabz-Training/
+└── collections-practice/
+|   ├── gcr-codebase/
+|   |   ├── collections/
+|   |   ├── exception-handling/
+|   |   ├── generics/
+|   |   └── streams/
+|   └── scenario-based/
 └── core-java-practice/
 |   ├── gcr-codebase/
-|   │   ├── programming-elements/
+|   │   ├── arrays/
 |   │   ├── control-flow/
-|   │   └── arrays/
+|   │   ├── extras/
+|   |   ├── methods/
+|   |   ├── programming-elements/
+|   |   └── strings/
 |   ├── leet-code-codebase/
 |   └── scenario-based/
 └── dsa-practice/
@@ -206,10 +216,12 @@ j. Student Course Registration System
 
 ---
 
-## 🗓️ Week 06 – Data Structure & Algorithms(DSA)
+## 🗓️ Week 06 – Data Structure & Algorithms(DSA) / Java Collections & Streams
 
 1. 19-01-2026 (Monday)
 - Solved Address Book System Use Cases 8-12 [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/address-book-system)
+
+🔹 Runtime Analysis
 
 2. 20-01-2026 (Tuesday)
 - Solved Runtime Anaysis & Big-O Notation problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/runtime-analysis-big-o-notation)
@@ -224,6 +236,8 @@ e. ExamProctor – Online Exam Review System (Stack + HashMap + Functions)
 f. CinemaTime – Movie Schedule Manager
 ```
 
+🔹 Generics
+
 3. 21-01-2026 (Wednesday)
 
 - Solved Generics problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
@@ -232,6 +246,31 @@ f. CinemaTime – Movie Schedule Manager
 a. EduResults – Rank Sheet Generator (Merge Sort)
 b. SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
 ```
+
+🔹 Collections
+
+4. 22-01-2026 (Thursday)
+
+- Solved Collections problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections)
+- Solved 1 Scenario-Based Question [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based) : 
+```text
+a. ParcelTracker – Delivery Chain Management (Singly Linked List)
+```
+
+🔹 Streams
+
+5. 23-01-2026 (Friday)
+- Solved Streams problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)
+
+---
+
+## 🗓️ Week 07 – Java Collections & Streams
+
+🔹 Exceptions
+
+1. 27-01-2026 (Tuesday)
+
+- Solved Exceptions problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exception-handling)
 
 ---
 
