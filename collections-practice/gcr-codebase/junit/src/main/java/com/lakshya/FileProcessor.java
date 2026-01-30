@@ -10,6 +10,6 @@ public class FileProcessor {
     }
     public String readFromFile(String filename) throws IOException {
         Path path = Paths.get(filename);
-        return Files.readString(path);
+        return Files.readString(path); 
     }
 }

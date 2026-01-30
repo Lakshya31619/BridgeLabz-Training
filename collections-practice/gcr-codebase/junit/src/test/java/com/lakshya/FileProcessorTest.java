@@ -11,7 +11,6 @@ class FileProcessorTest {
     void testWriteAndReadFile() throws IOException {
         String content = "Hello, World!";
         fileProcessor.writeToFile(testFile, content);
-
         String readContent = fileProcessor.readFromFile(testFile);
         assertEquals(content, readContent, "Content read should match content written");
     }
@@ -19,7 +18,6 @@ class FileProcessorTest {
     void testFileExistsAfterWriting() throws IOException {
         String content = "File existence test";
         fileProcessor.writeToFile(testFile, content);
-
         assertTrue(Files.exists(Path.of(testFile)), "File should exist after writing");
     }
     @Test
