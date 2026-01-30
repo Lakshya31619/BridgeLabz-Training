@@ -9,4 +9,3 @@ public class ValidateCreditCard {
         System.out.println(pattern.matcher(masterCard).matches());
     }
 }
-
