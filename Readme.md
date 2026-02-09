@@ -6,9 +6,13 @@
 BridgeLabz-Training/
 └── collections-practice/
 |   ├── gcr-codebase/
+|   |   ├── annotations/
 |   |   ├── collections/
 |   |   ├── exception-handling/
 |   |   ├── generics/
+|   |   ├── junit/
+|   |   ├── reflection/
+|   |   ├── regex/
 |   |   └── streams/
 |   └── scenario-based/
 └── core-java-practice/
@@ -30,6 +34,18 @@ BridgeLabz-Training/
 |   |   └── stack-queue-hashmap-hashing/
 |   ├── leet-code-codebase/
 |   └── scenario-based/
+└── io-programming-practice/
+|   └── gcr-codebase/
+|       ├── csv-data-handling/
+|       └── json-data/
+└── java-8-practice/
+|   └── gcr-codebase/
+|       ├── collectors/
+|       ├── functional-interfaces/
+|       ├── lambda-expressions/
+|       └── stream-api/
+└── multi-threading-practice/
+|   └── gcr-codebase/
 └── oops-practice/
 |   ├── gcr-codebase/
 |   |   ├── address-book-system/
@@ -40,6 +56,8 @@ BridgeLabz-Training/
 |   │   ├── inheritance/
 |   │   └── this-static-final-instanceof
 |   └── scenario-based/
+└── solution-designing-practice/
+    └── gcr-codebase/
 ```
 
 ## 🗓️ Week 01 – Core Programming (Java Fundamentals)
@@ -271,6 +289,13 @@ a. ParcelTracker – Delivery Chain Management (Singly Linked List)
 1. 27-01-2026 (Tuesday)
 
 - Solved Exceptions problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exception-handling)
+
+🔹 Regex
+
+2. 28-01-2026 (Wednesday)
+
+- Solved Regex problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)
+
 
 ---
 
