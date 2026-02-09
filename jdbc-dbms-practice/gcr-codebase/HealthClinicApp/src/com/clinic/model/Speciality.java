@@ -1,6 +1,6 @@
 package com.clinic.model;
 
-public class Specialty {
+public class Speciality {
     private int specialtyId;
     private String name;
 

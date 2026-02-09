@@ -6,7 +6,7 @@ public class Doctor {
     private int specialtyId;
     private String phone;
     private double consultationFee;
-    private boolean isActive;
+    private boolean isActive = true;
 
     public int getDoctorId() { return doctorId; }
     public void setDoctorId(int doctorId) { this.doctorId = doctorId; }
