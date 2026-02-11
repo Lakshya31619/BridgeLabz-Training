@@ -257,7 +257,6 @@ f. CinemaTime – Movie Schedule Manager
 🔹 Generics
 
 3. 21-01-2026 (Wednesday)
-
 - Solved Generics problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
 - Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based) : 
 ```text
@@ -268,7 +267,6 @@ b. SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
 🔹 Collections
 
 4. 22-01-2026 (Thursday)
-
 - Solved Collections problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections)
 - Solved 1 Scenario-Based Question [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based) : 
 ```text
@@ -287,15 +285,94 @@ a. ParcelTracker – Delivery Chain Management (Singly Linked List)
 🔹 Exceptions
 
 1. 27-01-2026 (Tuesday)
-
 - Solved Exceptions problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exception-handling)
 
 🔹 Regex
 
 2. 28-01-2026 (Wednesday)
+- Solved Regex problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
+- Solved 2 Scenario-Based Questions [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based) : 
+```text
+a. Restaurant Table Reservation System
+b. File Backup Scheduler
+```
 
-- Solved Regex problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)
+🔹 Reflection
 
+3. 29-01-2026 (Thursday)
+- Solved Reflection problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflections)
+
+🔹 Annotations
+
+4. 30-01-2026 (Friday)
+- Solved Annotations problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/annotations)
+
+---
+
+## 🗓️ Week 08 – I/O - Programming / JAVA-8
+
+🔹 CSV Data Handling
+
+1. 02-02-2026 (Monday)
+- Solved CSV Data Handling problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv-data-handling)
+- Solved 1 Scenario-Based Question [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/future-logistics) : 
+```text
+a. Future Logistics
+```
+
+🔹 JSON Data
+
+2. 03-02-2026 (Tuesday)
+- Solved JSON Data problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json-data)
+- Solved 2 Scenario-Based Question [a. here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/future-logistics) & [b. here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/factory-robot-hazard-analyzer): 
+```text
+a. Stream Buzz
+b. Factory Robot Hazard Analyzer
+```
+
+🔹 Lambda Expressions & Functional Interfaces
+
+3. 04-02-2026 (Wednesday)
+- Solved Lambda Expressions problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/java-8-practice/java-8-practice/gcr-codebase/lambda-expressions)
+- Solved Functional Interfaces problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/java-8-practice/java-8-practice/gcr-codebase/functional-interfaces)
+
+4. 05-02-2026 (Thursday)
+- Solved 1 Scenario-Based Question [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/aero-vigil) : 
+```text
+a. Aero Vigil
+```
+
+🔹 Stream API
+
+5. 06-02-2026 (Friday)
+- Solved Stream API problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/java-8-practice/java-8-practice/gcr-codebase/stream-api)
+
+🔹 Collectors
+
+5. 07-02-2026 (Saturday)
+- Solved Collectors problems sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/java-8-practice/java-8-practice/gcr-codebase/collectors)
+- Solved 1 Scenario-Based Question [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/ocean-fleet) : 
+```text
+a. Ocean Fleet
+```
+
+## 🗓️ Week 09 – Solution Designing / Multi-Threading / Sonarqube / JDBC-DBMS
+
+🔹 Solution Desigining/ Multi-Threading / Sonarqube
+
+1. 08-02-2026 (Sunday)
+- Solved Library Management System with GoF Patterns [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/solution-designing-practice/solution-designing-practice/gcr-codebase/library-management-system)
+- Solved Multi-Threading Problems Sheet [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/multi-threading-practice/multi-threading-practice/gcr-codebase)
+- Solved Sonarqube/AddressBook Problem [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/sonarqube-practice/sonarqube-practice/AddressBook)
+
+🔹 JDBC - DBMS
+
+2. 09-02-2026 (Monday)
+- Solved JDBC-DBMS/Healthcare Clinic App Problem [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/jdbc-dbms-practice/jdbc-dbms-practice/gcr-codebase/HealthClinicApp)
+- Solved 1 Scenario-Based Question [here](https://github.com/Lakshya31619/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/bank-account-testing) : 
+```text
+a. Bank Account Testing (J-Unit)
+```
 
 ---
 
